@@ -8,6 +8,6 @@
 - Knows how to pick up all dropped tables
 - Stopped a `rm -rf` with a fork bomb macro
 - Just force push and pray
-- Thinkpad arched like my back
+- Thinkpad arched like his back
 - Jailbroken his Kindle
 - Tried Haskell -> Understands why monad is like a burrito
