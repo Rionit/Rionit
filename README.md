@@ -11,3 +11,4 @@
 - Thinkpad arched like his back
 - Jailbroken his Kindle
 - Tried Haskell -> Understands why monad is like a burrito
+- Bash? Yeah sometimes when angry
