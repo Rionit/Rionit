@@ -5,6 +5,7 @@
 ## README Important must-know description
 
 - Director and head of amateur photography at indie movie corp - Riocorp productions
+- Real life speedrunner
 - Knows how to pick up all dropped tables
 - Stopped a `rm -rf` with a fork bomb macro
 - Just force push and pray
