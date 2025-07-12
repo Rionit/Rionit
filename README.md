@@ -13,3 +13,4 @@
 - Jailbroken his Kindle
 - Tried Haskell -> Understands why monad is like a burrito
 - Bash? Yeah sometimes when angry
+- Graduated CTU FEE Open Informatics - Computer Games and Graphics
