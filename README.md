@@ -9,7 +9,7 @@
 - Knows how to pick up all dropped tables
 - Stopped a `rm -rf` with a fork bomb macro
 - Just force push and pray - just like next day after KFC meal
-- Thinkpad arched like his back
+- Thinkpad Arched like his back
 - Jailbroken his Kindle
 - Tried Haskell -> Understands why monad is like a burrito
 - Bash? Yeah sometimes when angry
